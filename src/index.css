@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+
+}
+* {
+  font-family: "Verdana", cursive, sans-serif;
+  /* color: #ffffff; */
+}
+
+body {
+  /* background-color: #000000; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
